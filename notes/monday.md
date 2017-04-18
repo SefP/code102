@@ -9,6 +9,7 @@ git status
 
 git push origin master (final push)
 
+git log (allows you to see all your commits) press q to exit
 
 Javascript
   Datatypes
