@@ -12,3 +12,4 @@ Math.floor(Math.random() * 50); makes it round to nearest whole number. these al
 | is called a pipe
 typig.io
 see screenshots for MORE
+adding in git is called staging.
