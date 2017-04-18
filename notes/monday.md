@@ -1,6 +1,8 @@
 // Git add before git commit. Git add is staging the files to make sure it's ready to commit.
 Git add
 
+git add -p (will let you look at changes)
+
 git commit -m "message"
 
 git status
@@ -33,7 +35,7 @@ declare fruit as a variable containing the string apple
 
 var fruit = 'apple' (''single quotes in javascript " " double quotes in HTML)
 
-Repl (read evaluate print loot) This is what your developer console is in your browser.
+REPL (read evaluate print loot) This is what your developer console is in your browser.
 
 concatenate  = To link things together ("hey " + "there") = ("hey there")
 
@@ -42,3 +44,6 @@ var intro = "my name is "
 var name = "jeff"
 
 intro + name = "my name is jeff"
+
+Make sure to add commit and push often, it allows for the backing up of your project.
+Essentially snapshotting your project at a given time.
