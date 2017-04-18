@@ -11,4 +11,4 @@ Math.random() * 50; to set an upper limit
 Math.floor(Math.random() * 50); makes it round to nearest whole number. these all must be done inside a console.log()
 | is called a pipe
 typig.io
-see screenshots for more
+see screenshots for MORE
