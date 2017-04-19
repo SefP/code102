@@ -12,3 +12,9 @@ Intro to vi (a text editor).
 touch ~ /.bashrc it will create this file into your home directory.
 
 vi ~/.bashrc to open file.
+
+Alias list. (for reference)
+https://github.com/codefellowspdx/code102/blob/master/resources/bash_aliases.md
+
+Think of questions to ask tomorrow. Try to understand what you need to know. what
+are your limits.

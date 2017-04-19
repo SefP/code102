@@ -48,3 +48,8 @@ intro + name = "my name is jeff"
 
 Make sure to add commit and push often, it allows for the backing up of your project.
 Essentially snapshotting your project at a given time.
+
+New file: git add filename
+modifying existing file: git add -p
+commit a file: git commit -m "notes"
+pushing to repository: git push origin branch 
