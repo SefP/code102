@@ -52,4 +52,6 @@ Essentially snapshotting your project at a given time.
 New file: git add filename
 modifying existing file: git add -p
 commit a file: git commit -m "notes"
-pushing to repository: git push origin branch 
+pushing to repository: git push origin branch
+
+cd = change directories.
