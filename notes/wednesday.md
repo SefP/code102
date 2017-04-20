@@ -37,3 +37,5 @@ myName (like humps on a camel, the capital is further in)
 this_is_snake_case
 
 kabob-case
+
+YEAH!
