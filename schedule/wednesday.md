@@ -12,10 +12,10 @@
     * Now you can fetch (or pull) from the original repo using `git fetch upstream` (or `git pull upstream`)
     * Maybe your instructor will commit a small change so you can see this in action...
   * Let's branch in this repo:
-    * `git checkout -b feature/wednesday`
+    * `git checkout -b wednesday`
     * Add a new file: `touch notes/wednesday.md`
   * For bonus points, experiment with [markdown styling](https://guides.github.com/features/mastering-markdown/)
-* 6:30pm - Command Line: vi and Editing from the Command Line
+* 6:30pm - Command Line: SSH Keys
 * 7:00pm - Prework (you should be at least 60% complete by the end of class)
 * 8:30pm - Recap, Q&A
 
