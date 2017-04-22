@@ -13,7 +13,9 @@
     * `git commit -m "Add notes file for Monday"`
   * Take notes on what you learn today in this markdown file
 * 7:00pm - Developer Tools: [Setting up Atom](/resources/atom.md)
-* 7:15pm - [Command Line: Aliases](/resources/bash_aliases.md)
+* 7:15pm - JavaScript: Syntax
+* 7:30pm - JavaScript: Variables
+  * Use [code/tuesday.html](/code/tuesday.html) and [code/tuesday.js](/code/tuesday.js)
 * 8:15pm - Prework (you should be at least 20% complete by the end of class)
 * 8:50 - Git
   * Practice your git workflow:
